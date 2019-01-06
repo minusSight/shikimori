@@ -1,0 +1,8 @@
+.c-brief>.avatar img {
+    border-radius: 100px; /* border-radius for example */
+    width: 160px;
+    height: 160px;
+    padding: 160px 0 0;
+    background: url('link there') center;
+    /* example: https://shikimori.org/Римуру+Темпест */
+}
